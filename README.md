@@ -1,3 +1,7 @@
 # Hand-Tracking-Glitch-Ribbon
 
-<video src="https://github.com/Nidhi2-4/Hand-Tracking-Glitch-Ribbon/raw/main/PixelEffect.mp4" width="100%" controls></video>
+
+
+https://github.com/user-attachments/assets/f046168e-d64e-4192-bede-8bf66e222e49
+
+
