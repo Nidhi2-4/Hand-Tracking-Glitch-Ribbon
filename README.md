@@ -1,3 +1,3 @@
 # Hand-Tracking-Glitch-Ribbon
 
-![Project Demo](PixelEffect.mp4)
+<video src="PixelEffect.mp4" width="100%" controls></video>
